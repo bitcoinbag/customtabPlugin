@@ -19,8 +19,8 @@ import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.Color;
 import android.net.Uri;
-import android.support.customtabs.CustomTabsIntent;
-import android.support.customtabs.CustomTabsService;
+import androidx.browser.customtabs.CustomTabsIntent;
+import androidx.browser.customtabs.CustomTabsService;
 import android.util.Log;
 
 import org.apache.cordova.CallbackContext;
